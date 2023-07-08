@@ -1,0 +1,45 @@
+.logo {
+    width: 40%;
+}
+
+.btn-menu {
+    margin: 10px;
+    transition: .5;
+    min-width: 200px;
+}
+
+.table-head {
+    color: #ddd;
+    padding: 10px;
+}
+
+.inflow-cash {
+    color: green;
+    padding-left: 20px;
+}
+
+.outflow-cash {
+    color: red;
+    padding-left: 20px;
+}
+
+.flow-description {
+    font-weight: bold;
+}
+
+.insert {
+    padding: 10px;
+}
+
+.submit-button {
+    text-align: center;	
+    justify-content: center;
+}
+
+.outflow-insert {
+    color: red;    
+}
+
+.inflow-insert {
+    color: green;
+}
